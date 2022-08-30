@@ -1,0 +1,6 @@
+from model import *
+
+table = RectTable on Vector3D(0,0,0)
+t = Target completely on table
+tp = TargetPlacement completely on table
+r = niryo_one completely on table
